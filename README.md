@@ -1,3 +1,3 @@
 "# NVCalculator" 
 
-![alt text](https://github.com/almightyNV/NVCalculator/blob/main/NVCalc.PNG)
+![NV Calculator](https://github.com/almightyNV/NVCalculator/blob/main/NVCalc.PNG)
